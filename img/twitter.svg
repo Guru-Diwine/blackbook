@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="1636"
+   height="1636"
+   viewBox="0 0 1636 1636"
+   sodipodi:docname="twitter.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,1227 H 1227 V 0 H 0 Z"
+         id="path14" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="twitter"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,1636)">
+    <g
+       id="g10">
+      <g
+         id="g12"
+         clip-path="url(#clipPath16)">
+        <g
+           id="g18"
+           transform="translate(613.5,1227)">
+          <path
+             d="m 0,0 c -338.815,0 -613.5,-274.685 -613.5,-613.5 0,-338.815 274.685,-613.5 613.5,-613.5 338.815,0 613.5,274.685 613.5,613.5 C 613.5,-274.685 338.815,0 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" />
+        </g>
+        <g
+           id="g22"
+           transform="translate(345.4225,927.14)">
+          <path
+             d="M 0,0 H 95.595 L 535.619,-629.411 H 440.024 Z M 335.194,-258.435 597.826,46.853 H 535.591 L 307.547,-218.225 125.41,46.853 H -84.664 L 190.763,-353.991 -84.664,-674.133 h 62.239 l 240.82,279.931 192.35,-279.931 h 210.074 l -285.641,415.698 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path24" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
